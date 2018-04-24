@@ -9,4 +9,3 @@ class Player
     @lives > 0
   end
 end
-
